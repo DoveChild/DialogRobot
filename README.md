@@ -1,8 +1,8 @@
-#DialogRobot（Python）
+# DialogRobot（Python）
 
 基于 **Python** 的简单对话机器人。
 
-####功能：
+#### 功能：
 
 1. 基于 **腾讯AI开放平台** 的基础智能闲聊
 > 手写签名申请、调用接口的参数、接入API等
